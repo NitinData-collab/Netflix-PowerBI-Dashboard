@@ -1,2 +1,2 @@
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Netflix_dashboard.png)
