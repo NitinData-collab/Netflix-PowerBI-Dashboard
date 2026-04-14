@@ -9,4 +9,4 @@ Tools Used
 Power BI
 Excel / CSV Dataset
 Dashboard preview 
-![Dashboard](Netflix_dashboard.png)
+<img src="Netflix_dashboard.png" width="1000"/>
